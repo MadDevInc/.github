@@ -1,4 +1,3 @@
-# .github
 ## Sobre Nós
 Prazer, somos a MadDev, um estúdio de desenvolvimento de jogos independente iniciado dentro da Universidade de Brasília
 
